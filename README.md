@@ -1,6 +1,6 @@
 # Data Science
 
-En el repositorio se encuentran varios proyectos realizados con el objetivo de estudiar distintos tipos de algoritmos de Machine Learning, aplicando distintos modelos y técnicas para su visualización, así como análisis estadísticos y descripción de datasets.
+En el repositorio se encuentran varios proyectos realizados con el objetivo de estudiar distintos tipos de algoritmos de Machine Learning, aplicando diferentes modelos y técnicas para su visualización, así como análisis estadísticos y descripción de datasets.
 
 *Nota: Todos los análisis realizados se encuentran en inglés ya que fueron compartidos en la plataforma Kaggle para recibir feedback.*
 
@@ -23,4 +23,4 @@ El dataset contiene distintos modelos de autos de la marca Audi, así como su a�
 ### - :movie_camera: [Análisis de películas.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Movie%20EDA%20and%20visualizations/Movie%20EDA%20and%20visualizations.ipynb)
 Se hizo un análisis exploratorio completo con diferentes técnicas y módulos de visualización de gráficos para poder obtener conclusiones acerca del set, que contiene información sobre distintos títulos lanzados así como director, año de estreno, actor principal, entre otros. 
 
-**Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBoost, Statsmodels, Geopandas, WordCloud, Warnings.
+**Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBoost, Statsmodels, Geopandas, Plotly WordCloud, Warnings.
