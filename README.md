@@ -10,7 +10,7 @@ En el repositorio se encuentran varios proyectos realizados con el objetivo de e
 
 ### - :moneybag: [Predicción de compra de un producto.](https://github.com/AgusTP/Data-Science/blob/master/Purchase%20classification%20algorithms/Social%20network%20product%20purchase.ipynb)
 *Aprendizaje Supervisado. Algoritmos de clasificación.* 
-Se realizó un análisis exploratorio de datos para evaluar la posibilidad de compra o no de un producto publicitado en una red social, teniendo en cuenta características como edad, salario y género de una persona. Luego se utilizaron distintos modelos de clasificación, comparándolos para evaluar cuál de todos presenta la mayor precisión, sacando conclusiones.
+Se realizó un análisis exploratorio de datos para evaluar la posibilidad de compra o no de un producto publicitado en una red social, teniendo en cuenta características como edad, salario y género de una persona. Luego se utilizaron distintos modelos de clasificación, comparándolos para evaluar cuál de todos presenta la mayor precisión, analizando también las curvas CAP y ROC y sus áreas bajo la curva.
 
 ### - :tropical_fish: [Predicción del peso de distintas especies.](https://github.com/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
 *Aprendizaje Supervisado. Algoritmos de regresión.*
