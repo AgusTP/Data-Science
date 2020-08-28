@@ -25,9 +25,13 @@ Se hizo un análisis exploratorio completo con diferentes técnicas y módulos d
 *Aprendizaje No Supervisado. Algoritmos de Clustering.*
 EDA y comparación de distintos algoritmos de clustering (K-Means, Hierarchical, Affinity Propagation y DBSCAN) para obtener resultados y relaciones sobre el dataset. Todas las visualizaciones 2D y 3D fueron realizadas con Plotly para mejorar la experiencia de visualización de las conclusiones.
 
+### - :hamburger: [Apriori para sets de compras.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Association%20rule%20learning/Association%20Rules.ipynb)
+*Regla de asociación.*
+Utilización del algoritmo Apriori para generar una lista de elementos frecuentes. El dataset incluye distintas transacciones de un supermercado, de las cuales se quiere generar conclusiones para preparar posibles estrategias comerciales de venta con ayuda del modelo. Este algoritmo, tanto como Eclat y FP-growth son herramientas fundamentales en sistemas de recomendación de productos.
+
 ### - :tropical_fish: [Predicción del peso de distintas especies.](https://github.com/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
 *Aprendizaje Supervisado. Algoritmos de regresión.*
 Se hizo un análisis visual del set de datos, que contiene información sobre dimensiones de diferentes especies de peces. Luego se comprobaron las hipótesis que permiten trabajar con un modelo sencillo de regresión lineal múltiple (tendencia lineal con la variable a predecir, distribución normal de las variables, multicolinealidad, homocedasticidad y autocorrelación) y se compararon los resultados con un modelo polinómico y con uno más robusto ensamblado (Random Forest). También se hizo un análisis para descartar valores outliers.
 
 
-**Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBoost, Statsmodels, Geopandas, Plotly, WordCloud, Warnings.
+**Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBoost, Statsmodels, Geopandas, Mlxtend, Plotly, WordCloud, Warnings.
