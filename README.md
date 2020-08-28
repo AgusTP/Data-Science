@@ -5,6 +5,7 @@ En el repositorio se encuentran varios proyectos realizados con el objetivo de e
 *Nota: Todos los análisis realizados se encuentran en inglés ya que fueron compartidos en la plataforma Kaggle para recibir feedback.*
 
 [Perfil de Kaggle](https://www.kaggle.com/agustinpugliese)
+[Perfil de LinkedIn](https://www.linkedin.com/in/agust%C3%ADnpugliese7/)
 
 ## Contenido
 
