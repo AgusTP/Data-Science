@@ -29,7 +29,7 @@ Se hizo un análisis visual del set de datos, que contiene información sobre di
 ### Aprendizaje no supervisado
 
 ### :barber: [Clustering de compradores.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Clustering%20comparison/Mall%20Customers%20Clustering.ipynb)
-*Aprendizaje No Supervisado. Algoritmos de Clustering.*
+*Algoritmos de Clustering.*
 EDA y comparación de distintos algoritmos de clustering (K-Means, Hierarchical, Affinity Propagation y DBSCAN) para obtener resultados y relaciones sobre el dataset. Todas las visualizaciones 2D y 3D fueron realizadas con Plotly para mejorar la experiencia de visualización de las conclusiones.
 
 ### Reglas de asociación
