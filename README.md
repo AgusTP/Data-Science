@@ -4,34 +4,42 @@ En el repositorio se encuentran varios proyectos realizados con el objetivo de e
 
 *Nota: Todos los análisis realizados se encuentran en inglés ya que fueron compartidos en la plataforma Kaggle para recibir feedback.*
 
-[Perfil de Kaggle](https://www.kaggle.com/agustinpugliese)
+* [Perfil de Kaggle](https://www.kaggle.com/agustinpugliese)
 
-[Perfil de LinkedIn](https://www.linkedin.com/in/agust%C3%ADnpugliese7/)
+* [Perfil de LinkedIn](https://www.linkedin.com/in/agust%C3%ADnpugliese7/)
+
+* Contacto: agustin.pugliese@hotmail.com
 
 ## Contenido
 
-### - :moneybag: [Predicción de compra de un producto.](https://github.com/AgusTP/Data-Science/blob/master/Purchase%20classification%20algorithms/Social%20network%20product%20purchase.ipynb)
-*Aprendizaje Supervisado. Algoritmos de clasificación.* 
+### Aprendizaje Supervisado
+
+### :moneybag: [Predicción de compra de un producto.](https://github.com/AgusTP/Data-Science/blob/master/Purchase%20classification%20algorithms/Social%20network%20product%20purchase.ipynb)
+*Algoritmos de clasificación.* 
 Se realizó un análisis exploratorio de datos para evaluar la posibilidad de compra o no de un producto publicitado en una red social, teniendo en cuenta características como edad, salario y género de una persona. Luego se utilizaron distintos modelos de clasificación, comparando métricas para evaluar cuál de todos presenta la mayor precisión, analizando también las curvas CAP y ROC y sus áreas bajo la curva.
 
-### - :car: [Precio de venta de autos.](https://github.com/AgusTP/Data-Science/blob/master/Audi_price_Kaggle_Task/Audi_Kaggle_price(96%25%20Score).ipynb)
-*Aprendizaje Supervisado. Algoritmos de regresión.*
+### :car: [Precio de venta de autos.](https://github.com/AgusTP/Data-Science/blob/master/Audi_price_Kaggle_Task/Audi_Kaggle_price(96%25%20Score).ipynb)
+*Algoritmos de regresión.*
 El dataset contiene distintos modelos de autos de la marca Audi, así como su año, tipo de transmisión y tipo de combustible, entre otros. Primero se hizo un análisis exploratorio de datos y luego se compararon distintos modelos de regresión (Lineal, Lasso, SVR, Decision Tree, entre otros) para alcanzar el mayor valor de precisión. Se utilizó el método SelectKBest de sklearn para poder obtener un número acorde de variables a utilizar en la predicción. Este trabajo se hizo como entrega a una tarea de Kaggle.
 
-### - :movie_camera: [Análisis de películas.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Movie%20EDA%20and%20visualizations/Movie%20EDA%20and%20visualizations.ipynb)
-Se hizo un análisis exploratorio completo con diferentes técnicas y módulos de visualización de gráficos para poder obtener conclusiones acerca del set, que contiene información sobre distintos títulos lanzados así como director, año de estreno, actor principal, entre otros. 
+### :tropical_fish: [Predicción del peso de distintas especies.](https://github.com/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
+*Algoritmos de regresión.*
+Se hizo un análisis visual del set de datos, que contiene información sobre dimensiones de diferentes especies de peces. Luego se comprobaron las hipótesis que permiten trabajar con un modelo sencillo de regresión lineal múltiple (tendencia lineal con la variable a predecir, distribución normal de las variables, multicolinealidad, homocedasticidad y autocorrelación) y se compararon los resultados con un modelo polinómico y con uno más robusto ensamblado (Random Forest). También se hizo un análisis para descartar valores outliers con el método IQR.
 
-### - :barber: [Clustering de compradores.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Clustering%20comparison/Mall%20Customers%20Clustering.ipynb)
+### Aprendizaje no supervisado
+
+### :barber: [Clustering de compradores.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Clustering%20comparison/Mall%20Customers%20Clustering.ipynb)
 *Aprendizaje No Supervisado. Algoritmos de Clustering.*
 EDA y comparación de distintos algoritmos de clustering (K-Means, Hierarchical, Affinity Propagation y DBSCAN) para obtener resultados y relaciones sobre el dataset. Todas las visualizaciones 2D y 3D fueron realizadas con Plotly para mejorar la experiencia de visualización de las conclusiones.
 
+### Reglas de asociación
+
 ### - :hamburger: [Apriori para sets de compras.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Association%20rule%20learning/Association%20Rules.ipynb)
-*Regla de asociación.*
 Utilización del algoritmo Apriori para generar una lista de elementos frecuentes. El dataset incluye distintas transacciones de un supermercado, de las cuales se quiere generar conclusiones para preparar posibles estrategias comerciales de venta con ayuda del modelo. Este algoritmo, tanto como Eclat y FP-growth son herramientas fundamentales en sistemas de recomendación de productos.
 
-### - :tropical_fish: [Predicción del peso de distintas especies.](https://github.com/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
-*Aprendizaje Supervisado. Algoritmos de regresión.*
-Se hizo un análisis visual del set de datos, que contiene información sobre dimensiones de diferentes especies de peces. Luego se comprobaron las hipótesis que permiten trabajar con un modelo sencillo de regresión lineal múltiple (tendencia lineal con la variable a predecir, distribución normal de las variables, multicolinealidad, homocedasticidad y autocorrelación) y se compararon los resultados con un modelo polinómico y con uno más robusto ensamblado (Random Forest). También se hizo un análisis para descartar valores outliers.
+### EDAs
 
+### :movie_camera: [Análisis de películas.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Movie%20EDA%20and%20visualizations/Movie%20EDA%20and%20visualizations.ipynb)
+Se hizo un análisis exploratorio completo con diferentes técnicas y módulos de visualización de gráficos para poder obtener conclusiones acerca del set, que contiene información sobre distintos títulos lanzados así como director, año de estreno, actor principal, entre otros. 
 
 **Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBoost, Statsmodels, Geopandas, Mlxtend, Plotly, WordCloud, Warnings.
