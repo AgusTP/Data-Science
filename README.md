@@ -42,7 +42,7 @@ Utilización del algoritmo Apriori para generar una lista de elementos frecuente
 ### :movie_camera: [Análisis de películas.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Movie%20EDA%20and%20visualizations/Movie%20EDA%20and%20visualizations.ipynb)
 Se hizo un análisis exploratorio completo con diferentes técnicas y módulos de visualización de gráficos para poder obtener conclusiones acerca del set, que contiene información sobre distintos títulos lanzados así como director, año de estreno, actor principal, entre otros. 
 
-### :headphones: [Spotify top 50.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Spotify%2050%20songs/Spotify_50_songs.ipynb)
+### :headphones: [Spotify top 50.](https://colab.research.google.com/github/AgusTP/Data-Science/blob/master/Spotify_songs.ipynb)
 Análisis exploratorio de datos y distintas visualizaciones para poder sacar conclusiones acerca del dataset, que contiene una lista con las 50 canciones más escuchadas en Spotify, con sus autores y popularidades entre otros.
 
 **Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBoost, Statsmodels, Geopandas, Mlxtend, Plotly, WordCloud, Warnings.
