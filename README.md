@@ -19,8 +19,12 @@ En el repositorio se encuentran varios proyectos realizados con el objetivo de e
 Se realizó un análisis exploratorio de datos para evaluar la posibilidad de compra o no de un producto publicitado en una red social, teniendo en cuenta características como edad, salario y género de una persona. Luego se utilizaron distintos modelos de clasificación, comparando métricas para evaluar cuál de todos presenta la mayor precisión, analizando también las curvas CAP y ROC y sus áreas bajo la curva.
 
 ### :car: [Precio de venta de autos.](https://github.com/AgusTP/Data-Science/blob/master/Audi_price_Kaggle_Task/Audi_Kaggle_price(96%25%20Score).ipynb)
-*Algoritmos de regresión.*
-El dataset contiene distintos modelos de autos de la marca Audi, así como su año, tipo de transmisión y tipo de combustible, entre otros. Primero se hizo un análisis exploratorio de datos y luego se compararon distintos modelos de regresión (Lineal, Lasso, SVR, Decision Tree, entre otros) para alcanzar el mayor valor de precisión. Se utilizó el método SelectKBest de sklearn para poder obtener un número acorde de variables a utilizar en la predicción. Este trabajo se hizo como entrega a una tarea de Kaggle.
+*Algoritmos de regresión. Feature selection.*
+El dataset contiene distintos modelos de autos de la marca Audi, así como su año, tipo de transmisión y tipo de combustible, entre otros. Primero se hizo un análisis exploratorio de datos y luego se compararon distintos modelos de regresión (Lineal, Lasso, SVR, Decision Tree, entre otros) para alcanzar el mayor valor de precisión. Se utilizó el método SelectKBest de sklearn para poder obtener un número acorde de variables a utilizar en la predicción. 
+
+### :notebook: [Admisión a beca.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Admission%20prediction/Admission%20Prediction.ipynb)
+*Algoritmos de regresión. Model tuning.* 
+EDA y visualización del dataset, para poder predecir el porcentaje de admisión a una beca dadas notas de diversos exámenes. Utilización de K-Fold Cross Validation para comparar y tener una mejor información sobre la precisión del modelo y utilización de GridSearch para obtener los mejores parámetros de los modelos predictivos.
 
 ### :tropical_fish: [Predicción del peso de distintas especies.](https://github.com/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
 *Algoritmos de regresión.*
