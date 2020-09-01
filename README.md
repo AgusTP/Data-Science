@@ -26,7 +26,7 @@ El dataset contiene distintos modelos de autos de la marca Audi, así como su a�
 *Algoritmos de regresión. Model tuning.* 
 EDA y visualización del dataset, para poder predecir el porcentaje de admisión a una beca dadas notas de diversos exámenes. Utilización de K-Fold Cross Validation para comparar y tener una mejor información sobre la precisión del modelo y utilización de GridSearch para obtener los mejores parámetros de los modelos predictivos.
 
-### :tropical_fish: [Predicción del peso de distintas especies.](https://github.com/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
+### :tropical_fish: [Predicción del peso de distintas especies.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
 *Algoritmos de regresión.*
 Se hizo un análisis visual del set de datos, que contiene información sobre dimensiones de diferentes especies de peces. Luego se comprobaron las hipótesis que permiten trabajar con un modelo sencillo de regresión lineal múltiple (tendencia lineal con la variable a predecir, distribución normal de las variables, multicolinealidad, homocedasticidad y autocorrelación) y se compararon los resultados con un modelo polinómico y con uno más robusto ensamblado (Random Forest). También se hizo un análisis para descartar valores outliers con el método IQR.
 
