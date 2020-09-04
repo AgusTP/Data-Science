@@ -36,6 +36,10 @@ Se hizo un análisis visual del set de datos, que contiene información sobre di
 *Algoritmos de Clustering.*
 EDA y comparación de distintos algoritmos de clustering (K-Means, Hierarchical, Affinity Propagation y DBSCAN) para obtener resultados y relaciones sobre el dataset. Todas las visualizaciones 2D y 3D fueron realizadas con Plotly para mejorar la experiencia de visualización de las conclusiones.
 
+### NLP
+
+### :fork_and_knife: [Reseñas de restaurant.] (
+
 ### Reglas de asociación
 
 ### - :hamburger: [Apriori para sets de compras.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Association%20rule%20learning/Association%20Rules.ipynb)
