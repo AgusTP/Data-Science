@@ -38,7 +38,9 @@ EDA y comparación de distintos algoritmos de clustering (K-Means, Hierarchical,
 
 ### NLP
 
-### :fork_and_knife: [Reseñas de restaurant.] (
+### :fork_and_knife: [Reseñas de restaurant.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NLP%20reviews/NLP%20review%20analysis.ipynb)
+*Sentiment Analysis.*
+Análisis de distintas valoraciones de un restaurant, utilizando el método bag of words para clasificar las reseñas en positivas o negativas, realizando el procedimiento de tokenización, normalización y limpieza del corpus. Gráfico de unigramas, bigramas y trigramas y sentimientos para las reseñas tanto positivas como negativas.
 
 ### Reglas de asociación
 
