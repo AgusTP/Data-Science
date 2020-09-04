@@ -40,7 +40,7 @@ EDA y comparación de distintos algoritmos de clustering (K-Means, Hierarchical,
 
 ### :fork_and_knife: [Reseñas de restaurant.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NLP%20reviews/NLP%20review%20analysis.ipynb)
 *Sentiment Analysis.*
-Análisis de distintas valoraciones de un restaurant, utilizando el método bag of words para clasificar las reseñas en positivas o negativas, realizando el procedimiento de tokenización, normalización y limpieza del corpus. Gráfico de unigramas, bigramas y trigramas y sentimientos para las reseñas tanto positivas como negativas.
+Análisis de distintas valoraciones de un restaurant, utilizando el método bag of words para clasificar las reseñas en positivas o negativas, realizando los procedimientos de tokenización, normalización y limpieza del corpus. Gráfico de unigramas, bigramas, trigramas y sentimientos para las reseñas tanto positivas como negativas.
 
 ### Reglas de asociación
 
@@ -55,4 +55,4 @@ Se hizo un análisis exploratorio completo con diferentes técnicas y módulos d
 ### :headphones: [Spotify top 50.](https://colab.research.google.com/github/AgusTP/Data-Science/blob/master/Spotify_top_50_EDA.ipynb)
 Análisis exploratorio de datos y distintas visualizaciones para poder sacar conclusiones acerca del dataset, que contiene una lista con las 50 canciones más escuchadas en Spotify, con sus autores y popularidades entre otros.
 
-**Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBoost, Statsmodels, Geopandas, Mlxtend, Plotly, WordCloud, Warnings.
+**Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBoost, Statsmodels, Geopandas, NLTK, re, NRCLex, Mlxtend, Plotly, WordCloud, Warnings.
