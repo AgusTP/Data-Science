@@ -36,6 +36,12 @@ Se hizo un análisis visual del set de datos, que contiene información sobre di
 *Algoritmos de Clustering.*
 EDA y comparación de distintos algoritmos de clustering (K-Means, Hierarchical, Affinity Propagation y DBSCAN) para obtener resultados y relaciones sobre el dataset. Todas las visualizaciones 2D y 3D fueron realizadas con Plotly para mejorar la experiencia de visualización de las conclusiones.
 
+### Deep Learning
+
+### :bank: [Predicción con Red Neuronal.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NN%20classification/ANN%20.ipynb)
+*Neural Network.*
+Análisis exploratorio de datos y visualizaciones del set, que contiene información sobre clientes o ex clientes de un banco europeo. Explicación detallada de todos los pasos para crear la red neuronal profunda: sus capas de entrada, salida y ocultas, función de optimización, de pérdida e inicialización de parámetros. Análisis de la precisión del modelo y curvas ROC y AUC.
+
 ### NLP
 
 ### :fork_and_knife: [Reseñas de restaurant.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NLP%20reviews/NLP%20review%20analysis.ipynb)
