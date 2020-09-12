@@ -1,6 +1,6 @@
 # Data Science
 
-En el repositorio se encuentran varios proyectos realizados con el objetivo de estudiar distintos tipos de algoritmos de Machine Learning, aplicando diferentes modelos y técnicas para su visualización, así como análisis estadísticos y descripción de datasets.
+En el repositorio se encuentran varios proyectos realizados con el objetivo de estudiar distintos tipos de algoritmos de Machine Learning y Deep Learning, aplicando diferentes modelos y técnicas para su visualización, así como análisis estadísticos y descripción de datasets.
 
 *Nota: Todos los análisis realizados se encuentran en inglés ya que fueron compartidos en la plataforma Kaggle para recibir feedback.*
 
