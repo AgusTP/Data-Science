@@ -38,7 +38,7 @@ EDA y comparación de distintos algoritmos de clustering (K-Means, Hierarchical,
 
 ### Deep Learning
 
-### :bank: [Clasifiación con Red Neuronal.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NN%20classification/ANN%20.ipynb)
+### :bank: [Clasificación con Red Neuronal.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NN%20classification/ANN%20.ipynb)
 *Neural Network.*
 Análisis exploratorio de datos y visualizaciones del set, que contiene información sobre clientes o ex clientes de un banco europeo. Explicación detallada de todos los pasos para crear la red neuronal profunda: sus capas de entrada, salida y ocultas, función de optimización, de pérdida e inicialización de parámetros. Análisis de la precisión del modelo y curvas ROC y AUC.
 
