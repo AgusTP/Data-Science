@@ -61,4 +61,4 @@ Se hizo un análisis exploratorio completo con diferentes técnicas y módulos d
 ### :headphones: [Spotify top 50.](https://colab.research.google.com/github/AgusTP/Data-Science/blob/master/Spotify_top_50_EDA.ipynb)
 Análisis exploratorio de datos y distintas visualizaciones para poder sacar conclusiones acerca del dataset, que contiene una lista con las 50 canciones más escuchadas en Spotify, con sus autores y popularidades entre otros.
 
-**Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBoost, Statsmodels, Geopandas, NLTK, re, NRCLex, Mlxtend, Plotly, WordCloud, Warnings.
+**Herramientas:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Keras, XGBoost, Statsmodels, Geopandas, NLTK, re, NRCLex, Mlxtend, Plotly, WordCloud, Warnings.
