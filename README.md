@@ -61,7 +61,7 @@ Se hizo un análisis exploratorio completo con diferentes técnicas y módulos d
 ### :headphones: [Spotify top 50.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Spotify_top_50/Spotify%20top%2050%20songs%20EDA.ipynb)
 Análisis exploratorio de datos y distintas visualizaciones para poder sacar conclusiones acerca del dataset, que contiene una lista con las 50 canciones más escuchadas en Spotify, con sus autores y popularidades entre otros.
 
-### :oncoming_taxi: [NYC Taxi.]()
+### :oncoming_taxi: [NYC Taxi.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NY%20Taxi/NY%20taxi.ipynb)
 Práctica del uso de la librería Folium para distintas visualizaciones del set de datos, que contiene información mensual a distintos horarios de viajes realizados en NYC.
 
 **Librerías:** Folium, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Keras, XGBoost, Statsmodels, Geopandas, NLTK, re, NRCLex, Mlxtend, Plotly, WordCloud, Warnings.
