@@ -28,15 +28,15 @@ EDA and data visualization to predict a scholarship admission percentage, given 
 *Regression algorithms.*
 Data visual analysis containing diverse fish measurements. Multiple linear regression assumptions check: Multicollinearity, normal distribution of features, linearity and homoscedasticity. Polynomial regression and Random Forest assembled model comparison. Outlier analysis with IQR method.
 
-### Aprendizaje no supervisado
+### Unsupervised Learning
 
-### :barber: [Clustering de compradores.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Clustering%20comparison/Mall%20Customers%20Clustering.ipynb)
-*Algoritmos de Clustering.*
-EDA y comparación de distintos algoritmos de clustering (K-Means, Hierarchical, Affinity Propagation y DBSCAN) para obtener resultados y relaciones sobre el dataset. Todas las visualizaciones 2D y 3D fueron realizadas con Plotly para mejorar la experiencia de visualización de las conclusiones.
+### :barber: [Customer clustering.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Clustering%20comparison/Mall%20Customers%20Clustering.ipynb)
+*Clustering algorithms.*
+EDA and clustering models comparison (K-Means, Hierarchical, Affinity Propagation and DBSCAN). All 2D and 3D plots where made with Plotly to enhance conclusion experience.
 
 ### Deep Learning
 
-### :bank: [Clasificación con Red Neuronal.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NN%20classification/ANN%20.ipynb)
+### :bank: [ANN classification.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NN%20classification/ANN%20.ipynb)
 *Neural Network.*
 Análisis exploratorio de datos y visualizaciones del set, que contiene información sobre clientes o ex clientes de un banco europeo. Explicación detallada de todos los pasos para crear la red neuronal profunda: sus capas de entrada, salida y ocultas, función de optimización, de pérdida e inicialización de parámetros. Análisis de la precisión del modelo y curvas ROC y AUC.
 
