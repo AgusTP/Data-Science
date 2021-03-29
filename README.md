@@ -1,18 +1,18 @@
-# Data Science
+repo# Data Science
 
-En el repositorio se encuentran varios proyectos realizados con el objetivo de estudiar distintos tipos de algoritmos de Machine Learning y Deep Learning, aplicando diferentes modelos y técnicas para su visualización, así como análisis estadísticos y descripción de datasets.
+The repository contains several projects done with the objective of studying different Machine Learning and Deep Learning models, applying diverse algorithms and techniques for data visualizacion, statistical analysis and dataset descriptions.
 
-*Nota: Todos los análisis realizados se encuentran en inglés ya que fueron compartidos en la plataforma Kaggle para recibir feedback.*
+*Note: All content was shared in Kaggle to receive feedback.*
 
-* [Perfil de Kaggle](https://www.kaggle.com/agustinpugliese)
+* [Kaggle Profile](https://www.kaggle.com/agustinpugliese)
 
-* [Perfil de LinkedIn](https://www.linkedin.com/in/agust%C3%ADnpugliese7/)
+* [LinkedIn Profile](https://www.linkedin.com/in/agust%C3%ADnpugliese7/)
 
-* Contacto: agustin.pugliese@hotmail.com
+* Contact: agustin.pugliese@hotmail.com
 
-## Contenido
+## Content
 
-### Aprendizaje Supervisado
+### Supervised Learning
 
 ### :moneybag: [Predicción de compra de un producto.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Purchase%20classification%20algorithms/Social%20network%20product%20purchase.ipynb)
 *Algoritmos de clasificación.* 
