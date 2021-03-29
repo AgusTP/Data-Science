@@ -48,7 +48,7 @@ Análisis de distintas valoraciones de un restaurant, utilizando el método bag 
 
 ### Reglas de asociación
 
-### - :hamburger: [Apriori para sets de compras.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Association%20rule%20learning/Association%20Rules.ipynb)
+### :hamburger: [Apriori para sets de compras.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Association%20rule%20learning/Association%20Rules.ipynb)
 Utilización del algoritmo Apriori para generar una lista de elementos frecuentes. El dataset incluye distintas transacciones de un supermercado, de las cuales se quiere generar conclusiones para preparar posibles estrategias comerciales de venta con ayuda del modelo. Este algoritmo, tanto como Eclat y FP-growth son herramientas fundamentales en sistemas de recomendación de productos.
 
 ### EDAs
