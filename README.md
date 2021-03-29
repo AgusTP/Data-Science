@@ -24,9 +24,9 @@ The dataset contains different Audi car models, their year, transmission type an
 *Algoritmos de regresión. Model tuning.* 
 EDA and data visualization to predict a scholarship admission percentage, given different exam scores. K-Fold Cross Validation to estimate the skill of the model on new data and GridSearch compare and  y tener una mejor información sobre la precisión del modelo y utilización de GridSearch for model tuning.
 
-### :tropical_fish: [Predicción del peso de distintas especies.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
-*Algoritmos de regresión.*
-Se hizo un análisis visual del set de datos, que contiene información sobre dimensiones de diferentes especies de peces. Luego se comprobaron las hipótesis que permiten trabajar con un modelo sencillo de regresión lineal múltiple (tendencia lineal con la variable a predecir, distribución normal de las variables, multicolinealidad, homocedasticidad y autocorrelación) y se compararon los resultados con un modelo polinómico y con uno más robusto ensamblado (Random Forest). También se hizo un análisis para descartar valores outliers con el método IQR.
+### :tropical_fish: [Fish weight prediction.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
+*Regression algorithms.*
+Data visual analysis containing diverse fish measurements. Multiple linear regression assumptions check: Multicollinearity, normal distribution of features, linearity and homoscedasticity. Polynomial regression and Random Forest assembled model comparison. Outlier analysis with IQR method.
 
 ### Aprendizaje no supervisado
 
