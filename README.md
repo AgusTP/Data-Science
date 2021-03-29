@@ -1,4 +1,4 @@
-The repository contains several projects done with the objective of studying different Machine Learning and Deep Learning models, applying diverse algorithms and techniques for data visualizacion, statistical analysis and dataset descriptions.
+The repository contains several projects done with the objective of studying different Machine Learning and Deep Learning models, applying diverse algorithms and techniques for data visualizacion, statistical analysis and dataset description.
 
 *Note: All content was shared in Kaggle to receive feedback.*
 
@@ -20,9 +20,9 @@ Exploratory data analysis to evaluate the demand of a given product advertised o
 *Regression Algorithm. Feature selection.*
 The dataset contains different Audi car models, their year, transmission type and fuel type among others. Dataset EDA and diverse regression model comparison (Lineal, Lasso, SVR, Decision Trees, etc). SelectKBest feature selection algorithm to obtain the number of features to use. 
 
-### :notebook: [Admisión a beca.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Admission%20prediction/Admission%20Prediction.ipynb)
+### :notebook: [Scholarship admission.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Admission%20prediction/Admission%20Prediction.ipynb)
 *Algoritmos de regresión. Model tuning.* 
-EDA y visualización del dataset, para poder predecir el porcentaje de admisión a una beca dadas notas de diversos exámenes. Utilización de K-Fold Cross Validation para comparar y tener una mejor información sobre la precisión del modelo y utilización de GridSearch para obtener los mejores parámetros de los modelos predictivos.
+EDA and data visualization to predict a scholarship admission percentage, given different exam scores. K-Fold Cross Validation to estimate the skill of the model on new data and GridSearch compare and  y tener una mejor información sobre la precisión del modelo y utilización de GridSearch for model tuning.
 
 ### :tropical_fish: [Predicción del peso de distintas especies.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
 *Algoritmos de regresión.*
