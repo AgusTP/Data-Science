@@ -22,11 +22,11 @@ The dataset contains different Audi car models, their year, transmission type an
 
 ### :notebook: [Scholarship admission.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Admission%20prediction/Admission%20Prediction.ipynb)
 *Algoritmos de regresión. Model tuning.* 
-EDA and data visualization to predict a scholarship admission percentage, given different exam scores. K-Fold Cross Validation to estimate the skill of the model on new data and GridSearch compare and  y tener una mejor información sobre la precisión del modelo y utilización de GridSearch for model tuning.
+EDA and data visualization to predict a scholarship admission percentage, given different exam scores. K-Fold Cross Validation to estimate the skill of the model on new data and GridSearch for model tuning.
 
 ### :tropical_fish: [Fish weight prediction.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Fish%20weight%20analysis/Fish_weight_prediction.ipynb)
 *Regression algorithms.*
-Data visual analysis containing diverse fish measurements. Multiple linear regression assumptions check: Multicollinearity, normal distribution of features, linearity and homoscedasticity. Polynomial regression and Random Forest assembled model comparison. Outlier analysis with IQR method.
+Data containing diverse fish measurements visual analysis. Multiple linear regression assumptions check: Multicollinearity, normal distribution of features, linearity and homoscedasticity. Polynomial regression and Random Forest assembled model comparison. Outlier analysis with IQR method.
 
 ### Unsupervised Learning
 
