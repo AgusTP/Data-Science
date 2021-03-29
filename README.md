@@ -12,9 +12,9 @@ The repository contains several projects done with the objective of studying dif
 
 ### Supervised Learning
 
-### :moneybag: [Predicción de compra de un producto.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Purchase%20classification%20algorithms/Social%20network%20product%20purchase.ipynb)
-*Algoritmos de clasificación.* 
-Se realizó un análisis exploratorio de datos para evaluar la posibilidad de compra o no de un producto publicitado en una red social, teniendo en cuenta características como edad, salario y género de una persona. Luego se utilizaron distintos modelos de clasificación, comparando métricas para evaluar cuál de todos presenta la mayor precisión, analizando también las curvas CAP y ROC y sus áreas bajo la curva.
+### :moneybag: [Demand Forecasting.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Purchase%20classification%20algorithms/Social%20network%20product%20purchase.ipynb)
+*Classification algorithm.* 
+Exploratory data analysis to evaluate the demand of a given product advertised on a social network, taking into account features such as age, gender and salary of a person. Luego se utilizaron distintos modelos de clasificación, Different classification models, comparing metrics to evaluate precision. CAP and ROC curves.
 
 ### :car: [Precio de venta de autos.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Audi_price_Kaggle_Task/Audi_Kaggle_price%2896%25%20Score%29.ipynb)
 *Algoritmos de regresión. Feature selection.*
