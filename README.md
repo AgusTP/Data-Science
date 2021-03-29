@@ -1,5 +1,3 @@
-repo# Data Science
-
 The repository contains several projects done with the objective of studying different Machine Learning and Deep Learning models, applying diverse algorithms and techniques for data visualizacion, statistical analysis and dataset descriptions.
 
 *Note: All content was shared in Kaggle to receive feedback.*
