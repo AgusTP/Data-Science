@@ -16,9 +16,9 @@ The repository contains several projects done with the objective of studying dif
 *Classification algorithm.* 
 Exploratory data analysis to evaluate the demand of a given product advertised on a social network, taking into account features such as age, gender and salary of a person. Different classification models, comparing metrics to evaluate precision. CAP and ROC curves.
 
-### :car: [Precio de venta de autos.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Audi_price_Kaggle_Task/Audi_Kaggle_price%2896%25%20Score%29.ipynb)
-*Algoritmos de regresión. Feature selection.*
-El dataset contiene distintos modelos de autos de la marca Audi, así como su año, tipo de transmisión y tipo de combustible, entre otros. Primero se hizo un análisis exploratorio de datos y luego se compararon distintos modelos de regresión (Lineal, Lasso, SVR, Decision Tree, entre otros) para alcanzar el mayor valor de precisión. Se utilizó el método SelectKBest de sklearn para poder obtener un número acorde de variables a utilizar en la predicción. 
+### :car: [Cars price sale.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Audi_price_Kaggle_Task/Audi_Kaggle_price%2896%25%20Score%29.ipynb)
+*Regression Algorithm. Feature selection.*
+The dataset contains different Audi car models, their year, transmission type and fuel type among others. Dataset EDA and diverse regression model comparison (Lineal, Lasso, SVR, Decision Trees, etc). SelectKBest feature selection algorithm to obtain the number of features to use. 
 
 ### :notebook: [Admisión a beca.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Admission%20prediction/Admission%20Prediction.ipynb)
 *Algoritmos de regresión. Model tuning.* 
