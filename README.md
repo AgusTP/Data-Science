@@ -38,13 +38,13 @@ EDA and clustering models comparison (K-Means, Hierarchical, Affinity Propagatio
 
 ### :bank: [ANN classification.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NN%20classification/ANN%20.ipynb)
 *Neural Network.*
-Análisis exploratorio de datos y visualizaciones del set, que contiene información sobre clientes o ex clientes de un banco europeo. Explicación detallada de todos los pasos para crear la red neuronal profunda: sus capas de entrada, salida y ocultas, función de optimización, de pérdida e inicialización de parámetros. Análisis de la precisión del modelo y curvas ROC y AUC.
+EDA and data visualizations. The dataset contains information about bank clients. Detailed explanation of every ANN step: input, output and hidden layers, optimizers, loss functions and weight initializers. Precision of the model and ROC and AUC curves.
 
 ### NLP
 
 ### :fork_and_knife: [Restaurant sentiment analysis.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NLP%20reviews/NLP%20review%20analysis.ipynb)
 *Sentiment Analysis.*
-Análisis de distintas valoraciones de un restaurant, utilizando el método bag of words para clasificar las reseñas en positivas o negativas, realizando los procedimientos de tokenización, normalización y limpieza del corpus. Gráfico de unigramas, bigramas, trigramas y sentimientos para las reseñas tanto positivas como negativas.
+Restaurant review analysis, using Baf of Words model to classify positive and negative reviews. Word tokenization, text normalization and cleaning (explained). Unigrams, bigrams and trigrams plots. Wordcloud use.
 
 ### Associaton Rule Mining
 
