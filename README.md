@@ -42,24 +42,24 @@ Análisis exploratorio de datos y visualizaciones del set, que contiene informac
 
 ### NLP
 
-### :fork_and_knife: [Reseñas de restaurant.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NLP%20reviews/NLP%20review%20analysis.ipynb)
+### :fork_and_knife: [Restaurant sentiment analysis.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NLP%20reviews/NLP%20review%20analysis.ipynb)
 *Sentiment Analysis.*
 Análisis de distintas valoraciones de un restaurant, utilizando el método bag of words para clasificar las reseñas en positivas o negativas, realizando los procedimientos de tokenización, normalización y limpieza del corpus. Gráfico de unigramas, bigramas, trigramas y sentimientos para las reseñas tanto positivas como negativas.
 
-### Reglas de asociación
+### Associaton Rule Mining
 
-### :hamburger: [Apriori para sets de compras.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Association%20rule%20learning/Association%20Rules.ipynb)
-Utilización del algoritmo Apriori para generar una lista de elementos frecuentes. El dataset incluye distintas transacciones de un supermercado, de las cuales se quiere generar conclusiones para preparar posibles estrategias comerciales de venta con ayuda del modelo. Este algoritmo, tanto como Eclat y FP-growth son herramientas fundamentales en sistemas de recomendación de productos.
+### :hamburger: [Apriori for market products.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Association%20rule%20learning/Association%20Rules.ipynb)
+Apriori algorithm to identify underlying relations between market products. This model, as well as Eclat and Fp-growth among others, are powerful tools for association rule mining.
 
 ### EDAs
 
-### :movie_camera: [Análisis de películas.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Movie%20EDA%20and%20visualizations/Movie%20EDA%20and%20visualizations.ipynb)
-Se hizo un análisis exploratorio completo con diferentes técnicas y módulos de visualización de gráficos para poder obtener conclusiones acerca del set, que contiene información sobre distintos títulos lanzados así como director, año de estreno, actor principal, entre otros. 
+### :movie_camera: [Movie analysis.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Movie%20EDA%20and%20visualizations/Movie%20EDA%20and%20visualizations.ipynb)
+Querying and exploratory data analysis with different techniques and visualization packages.
 
 ### :headphones: [Spotify top 50.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Spotify_top_50/Spotify%20top%2050%20songs%20EDA.ipynb)
-Análisis exploratorio de datos y distintas visualizaciones para poder sacar conclusiones acerca del dataset, que contiene una lista con las 50 canciones más escuchadas en Spotify, con sus autores y popularidades entre otros.
+EDA of the 2020's 50 more listened Spotify songs, analysing danceability, energy, loudness, among other features.
 
 ### :oncoming_taxi: [NYC Taxi.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/NY%20Taxi/NY%20taxi.ipynb)
-Práctica del uso de la librería Folium para distintas visualizaciones del set de datos, que contiene información mensual a distintos horarios de viajes realizados en NYC.
+Folium package for different visualizations of NY taxi trips.
 
-**Librerías:** Folium, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Keras, XGBoost, Statsmodels, Geopandas, NLTK, re, NRCLex, Mlxtend, Plotly, WordCloud, Warnings.
+**Libraries:** Folium, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Keras, XGBoost, Statsmodels, Geopandas, NLTK, re, NRCLex, Mlxtend, Plotly, WordCloud, Warnings.
