@@ -32,7 +32,7 @@ Data containing diverse fish measurements visual analysis. Multiple linear regre
 
 ### :barber: [Customer clustering.](https://nbviewer.jupyter.org/github/AgusTP/Data-Science/blob/master/Clustering%20comparison/Mall%20Customers%20Clustering.ipynb)
 *Clustering algorithms.*
-EDA and clustering models comparison (KMeans, Hierarchical, Affinity Propagation and DBSCAN). All 2D and 3D plots where made with Plotly to enhance conclusion experience.
+EDA and clustering models comparison (K-Means, Hierarchical, Affinity Propagation and DBSCAN). All 2D and 3D plots where made with Plotly to enhance conclusion experience.
 
 ### Deep Learning
 
